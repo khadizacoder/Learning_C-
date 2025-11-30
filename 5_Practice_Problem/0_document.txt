@@ -1,0 +1,6 @@
+Platform: Codeforces
+Topics: Basic C++, Class and Object
+Link: https://docs.google.com/document/d/1myhhYc5mXuI0G6jAMWp3yk4N0WO8aLse/edit
+Language: C++
+Date: 2025-11-30
+Status: Solved
